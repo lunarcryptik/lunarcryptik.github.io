@@ -1,0 +1,45 @@
+div#page {
+    border:1px solid purple;
+    width:auto;
+    height:auto;
+    margin:0 auto;
+    padding:5px;
+    text-align:left;
+    position:relative
+  }
+  div {
+    text-align:center;
+  }
+
+
+  body {
+    background-color: rgb(26, 15, 0);
+  }
+
+  div {
+    color: white
+
+  }
+  
+  .left, .right {
+    width: 25%;
+  }
+  
+  .middle {
+    width: 50%;
+  }
+
+#logo {
+    text-align:left;
+}
+
+#footer {
+    border:1px solid purple;
+    width:min-content;
+    height:auto;
+    margin:0 auto;
+    padding:5px;
+    text-align:left;
+    position:absolute;
+}
+
